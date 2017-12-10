@@ -1,0 +1,6 @@
+password
+admin
+test
+wp_scan
+hey
+printing
